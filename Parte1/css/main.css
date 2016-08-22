@@ -1,0 +1,19 @@
+.contenedor{
+	width: 900px;
+	border: #000000 solid 3px;
+}
+
+.box{
+	width: 20%;
+	height: 100px;
+}
+
+.caja1{
+	background-color: #ffff00;
+}
+.caja2{
+	background-color: #3a81ba;
+}
+.caja3{
+	background-color: #ed2251;
+}
